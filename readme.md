@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aahan Singh Charak</h1>
-<h3 align="center">A budding data-scientist from India.</h3>
+<h3 align="center">A budding Data-scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pokemonchampion5833&label=Profile%20views&color=0e75b6&style=flat" alt="pokemonchampion5833" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pokemonchampion5833" alt="pokemonchampion5833" /></a> </p>
 
-- 🔭 I’m currently working on **developing my skills in Machine Learning, Deep Learning and Statistics.**
+- 🔭 I’m currently working on **developing my skills relevant to machine Learning, deep Learning and statistics.**
 
 - 🌱 I’m currently learning **Unsupervised learning algorithms and tensorflow.**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pokemonChampion5833](https://github.com/pokemonChampion5833)
 
-- ⚡ Fun fact [I am also interested to develop my data-structures & algorithm skills.](I am also interested to develop my data-structures & algorithm skills.)
+- ⚡ Fun fact [I am also interested in developing  my skills related to data-structures & algorithms.]
 
 - 💬 Ask me about **Machine Learning, Front-end Development.**
 
